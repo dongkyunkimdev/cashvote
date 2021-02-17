@@ -29,3 +29,6 @@ CASH VOTE는 나이, 지역, 성별, 직업군 등 다양한 배포 범위를 �
 * 본인이 등록한 진행중/완료 투표 목록 확인  
 * 본인이 등록한 완료 투표 카테고리별 통계 결과 확인
 * 투표 발의문 신고  
+
+## 실행 화면
+![cashvote](https://user-images.githubusercontent.com/49021557/108241721-79a43a00-718f-11eb-8bee-3587c3acbae3.png)
